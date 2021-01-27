@@ -2,6 +2,8 @@
 
 This is a collection of my code from the [Riiid AIEd Challenge 2020](https://www.kaggle.com/c/riiid-test-answer-prediction) Kaggle competition.
 
+One may find a brief explanation of my solution [here](https://www.kaggle.com/c/riiid-test-answer-prediction/discussion/210715).
+
 #### Preprocessing
 
 | File        | Comment     |
